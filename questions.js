@@ -326,7 +326,7 @@ window.questions = [
   },
   {
     id: 24,
-    image: "images/IMG_3069.jpeg",
+    image: "images/IMG_3908.jpeg",
     question:
       "A 6-year-old child is brought to the emergency department after accidentally swallowing a fish bone. The child complains of throat pain and difficulty swallowing. On flexible laryngoscopy, the foreign body is seen lodged in a pear-shaped mucosal recess on either side of the laryngeal inlet.\nWhich of the following nerves is most vulnerable to injury during removal of this foreign body?",
     options: [
